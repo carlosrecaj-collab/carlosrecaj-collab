@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm a 4rd-year Telecommunications Engineering student at UPC (telematics specialisation), with hands-on experience in IoT, embedded systems and network architecture. 
+I'm a 4rd-year Telecommunications Engineering student at UPC (telematics specialisation), with hands-on experience in IoT, embedded systems and network architecture. 
 
 
 
